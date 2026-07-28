@@ -36,9 +36,18 @@
         "assetName": { "type": "string", "minLength": 1 },
         "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
         "downloadBytes": { "type": "integer", "minimum": 1, "maximum": 268435456 },
+        "entryName": { "type": ["string", "null"], "minLength": 1 },
+        "entrySha256": { "type": ["string", "null"], "pattern": "^[a-f0-9]{64}$" },
+        "entryDownloadBytes": { "type": ["integer", "null"], "minimum": 1, "maximum": 268435456 },
         "expandedBytes": { "type": ["integer", "null"], "minimum": 1, "maximum": 536870912 },
         "entryCount": { "type": ["integer", "null"], "minimum": 1, "maximum": 4096 }
-      }
+      },
+      "allOf": [
+        {
+          "if": { "required": ["entryName"], "properties": { "entryName": { "type": "string" } } },
+          "then": { "required": ["entrySha256", "entryDownloadBytes"] }
+        }
+      ]
     },
     "pack": {
       "type": "object",
