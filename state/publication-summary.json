@@ -1,19 +1,23 @@
 {
-  "mode": "Correction",
-  "catalogVersion": "catalog-2026.07.28.2",
-  "localPackCount": 607,
-  "duplicateLocalPacks": 0,
+  "mode": "Republish",
+  "catalogVersion": "catalog-2026.07.28.3",
+  "localPackCount": 611,
+  "duplicateLocalPacks": 4,
   "activePackCount": 607,
   "additions": 0,
   "revisions": 0,
   "metadataChanges": 0,
   "withdrawals": 0,
+  "republished": 607,
   "changed": true,
   "releases": [
     {
-      "tag": "catalog-2026.07.28.2",
+      "tag": "catalog-2026.07.28.3",
       "isLatestCatalogShard": true,
-      "assets": []
+      "assets": [
+        "catalog-bundle-001.zip",
+        "catalog-bundle-002.zip"
+      ]
     }
   ]
 }
