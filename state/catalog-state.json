@@ -13833,7 +13833,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "a7c482c1c025b05a28a7958df8ba3e5c98442b40a20bd78ee791c98ae4dddd7f.kextra",
-          "sha256": "4cd4ebff359824c863ab8366f314d95f78b8d78877c7b7cdd42cc6dfb76cd527",
+          "sha256": "7b58509d96113c587aa6e89df2643ab1894c4326acbf6f9fc22be433e0419b72",
           "downloadBytes": 16359,
           "expandedBytes": 48237,
           "entryCount": 3
@@ -13935,7 +13935,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "e8185d15ee78868531134fcde1dd92d7b0468f430103529c09b9a754a2218bcd.kextra",
-          "sha256": "b86f671497f48b418b62750dfe6e75408a74f317b0d2d0a1c0a23d96e3c0d802",
+          "sha256": "17dde520df6af68c0a2b6b409d5909098b2ef6b3eadd6ded27c394b7aacdc531",
           "downloadBytes": 4641,
           "expandedBytes": 11223,
           "entryCount": 6
@@ -13969,7 +13969,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "0c7c7ee1f14117a769facbcbd663dea88bb515baf81acf808ae16163c41d3e4c.kextra",
-          "sha256": "ec95f76e4be287661eb961a554655cec4250e2ff6df0f616df2f1c4d7fe9f887",
+          "sha256": "58dfb60ac48ec1a7447927f80d785a36afb24f9316568217eb56b8002b4b71bf",
           "downloadBytes": 42328,
           "expandedBytes": 60916,
           "entryCount": 6
@@ -14003,7 +14003,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "476b071406d48a44e14386c55a69db26c21ef6d02bb9c2e1430bf9a224caf539.kextra",
-          "sha256": "eb4597760fe544f5dc6ad55cb2d1f38e12e6550cc7fb5cef8f7606d5405b34fd",
+          "sha256": "04de29249516bb5abc9179822c3c6b5c0b7ae1c4078fae8cbd63333a13a02d7b",
           "downloadBytes": 21314,
           "expandedBytes": 22588,
           "entryCount": 7
@@ -14105,7 +14105,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "c1ff5613d76d958b9bedcbad5fac318fba255adfa9992198a1d65958c985d1b5.kextra",
-          "sha256": "23c06d97f7636926239aed01b7b7fe4b0f1f03f352e3ea5aae1231cb35feb835",
+          "sha256": "afe167647bd0c279405dceef422df9d10e2529687703131495562c955052571e",
           "downloadBytes": 10453,
           "expandedBytes": 17642,
           "entryCount": 7
@@ -14207,7 +14207,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "09b7ec8d85a170be4a7a62b2c8a69a442ac88ebc3fefd455a4332c1ea8fc5724.kextra",
-          "sha256": "b15d6b4dd85f3b5a824b33942879fdadea87986b31593731d6b3b98b9788546d",
+          "sha256": "d455ba413d4aea784ec9d43ec3926cdbabff8393242fa0286863a40a3f17adc8",
           "downloadBytes": 20085,
           "expandedBytes": 45481,
           "entryCount": 7
@@ -14309,7 +14309,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "9b8555e71dcaa254e926788a67b44f9b96c2cb0cefbcc2b1f0d5d2a3972963ab.kextra",
-          "sha256": "9fc3a094a422390813577cc6b0a11ba53c2d648e5712acf62e895a5c2062daea",
+          "sha256": "bfc9dea4196a12de7e28cdeaa94591099821e077566e78b9334f91e177a49782",
           "downloadBytes": 17276,
           "expandedBytes": 19034,
           "entryCount": 7
@@ -14343,7 +14343,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "d4cfe3bfc21966a4a1b39f7495fe44e11fb8575cb38b333c67aab5fd3e34610e.kextra",
-          "sha256": "753025f30baefb7907303b7f3e13436fca4b049d58c4aa693e6ab152f162b95d",
+          "sha256": "c2412de420bcb0a4134fc1ed4d516fe30c8d2c1ce45914a89e5e42ed0996d720",
           "downloadBytes": 4442,
           "expandedBytes": 5937,
           "entryCount": 7
@@ -14377,7 +14377,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "267687ee0691055e16f5b077ffb7ff5e0224608a747dc49ead597201274c9b53.kextra",
-          "sha256": "9873fd9ea5abf381375efcc87c858b8389aba61ca9c7ec0fb3a56ce48a125b2f",
+          "sha256": "875d651ce3cece38742f3f0ad714b35adc5033b59374cbe7a5473e060c253227",
           "downloadBytes": 47525,
           "expandedBytes": 72143,
           "entryCount": 6
@@ -14411,7 +14411,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "fd1ed5676b8b944449ad050afa473aa1ca532c785093c9d8b677f45bd14a5848.kextra",
-          "sha256": "393fdcd2ec3336a2d6cfd8608422c06fb308df8379fa03632c76431739a912c6",
+          "sha256": "569b747ba9920650b4fab041da96e1903a7cee5b9f798ac1e79ad50d6dc7cf93",
           "downloadBytes": 17243,
           "expandedBytes": 43899,
           "entryCount": 7
@@ -14445,7 +14445,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "7073ac51a42b7398729baef11cd3dbbd646db46c5958385f2c2b70cdef5d9804.kextra",
-          "sha256": "405ba56cf16e582fbf6c44d7e4d0479091792b63f02e1ec740b49977f35a8f97",
+          "sha256": "d6a17a3e540065fe69464f06f0d3b2578392df0244155b1b862551838fa83ebf",
           "downloadBytes": 4500,
           "expandedBytes": 5145,
           "entryCount": 5
@@ -14547,7 +14547,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "7a48c88b4afa0bfd5ba72f29028b120140ab7f6cf03dea6624e67e49d61ff2d6.kextra",
-          "sha256": "9b670d26352a8a24edbc944fe8bbc2660154bd9e70968768107601b9e8ae4526",
+          "sha256": "4d91b7967f7f94123b4df8390ac7a9361ccf31d3c81803d1e2c849451ab08980",
           "downloadBytes": 52671,
           "expandedBytes": 56620,
           "entryCount": 5
@@ -14581,7 +14581,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "1d5aca5e149f39c73e01615fe39469906dfe7672a4aec4d5487a2af2b0dd18fc.kextra",
-          "sha256": "40054995cafd1dd0c3a43c4545f7b642cb5429d187acf06040d8aef69463ca0b",
+          "sha256": "cfff04c52e44ccf66a4ff49414caa59adeabfab6d15ae8e9d2f1cf0b22bfca90",
           "downloadBytes": 1008,
           "expandedBytes": 1346,
           "entryCount": 3
@@ -14642,7 +14642,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "5075d492ddacd1e586896576ddf08c657c7107728963590bf6ae8c1f349d10ca.kextra",
-          "sha256": "b9b0db1e1534e574dae5c0d05f07c7e88d4b11e996ff71f9ca971d747b0e75ca",
+          "sha256": "fa02c37cfdd4b7cba2ddea8e6806aa230b7a8c0512403dd72cd9b3c7e904528e",
           "downloadBytes": 452,
           "expandedBytes": 571,
           "entryCount": 1
@@ -14669,7 +14669,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "cbc6dc4009fa0c8c6d9274be3c30be3b5437ec4beb37b86e28cd83fe12f02995.kextra",
-          "sha256": "e5a2414cd368c8878ab830a619f9504bdfa9b5fdad2a406b24f7a06fa421ed1a",
+          "sha256": "d8b8d9e3c15f19673e74aa54ab0a58074dd3ce046a06fbe04ca84a92b70127e6",
           "downloadBytes": 36878,
           "expandedBytes": 109166,
           "entryCount": 8
@@ -14703,7 +14703,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "036f88ef043bd86999e377ce15f64f184c335e84ca4096548dce78038a3bd294.kextra",
-          "sha256": "383bd4e6732a6988dfa4af309060c8af6941dc17575d9dfe4f9f80dc5d7eb83b",
+          "sha256": "95fa9b1a3b929818ce166e9a9f417895ab16ada2428c7744fc9e2884a88ba2e1",
           "downloadBytes": 3478,
           "expandedBytes": 3600,
           "entryCount": 2
@@ -14737,7 +14737,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "10d264658970be9dce8e8692754da15c4122252bfb4e5682fcbeb3009d96a78a.kextra",
-          "sha256": "a018bbede005e2aa67440baf9e8d6bcf9be7bfdb85fb6ec676f52b94aba04ccb",
+          "sha256": "dd4ab629d5917727293cafc3bb527f63eabbcd6b291d9bfbf147a879774f2391",
           "downloadBytes": 1318433,
           "expandedBytes": 1443000,
           "entryCount": 8
@@ -14771,7 +14771,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "5b6c93fa3e7d2303aec316a1ec796bcb819ae831784486bb888d045ce9cbf394.kextra",
-          "sha256": "86149a60a559f73808c8421b64baf569ccbe608dc270e251ce7bb3f31e2ab3b3",
+          "sha256": "5a958e3bc7e00cb391aef4254940d8e97961a845497eea4416d47be0dbf62a7c",
           "downloadBytes": 7797,
           "expandedBytes": 9551,
           "entryCount": 12
@@ -14941,7 +14941,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "17d993d6011960986458a95d150aef0cc26f5b8ecb57b923248c7211a8ab572a.kextra",
-          "sha256": "eea49a0e4c8d2e6cfc9a675247fe85773c9cabfe80515dfdda16e3a6d698674d",
+          "sha256": "d0a4b82c24cd2a238962240da4ed869e8804484fff556797e23caca7eee04907",
           "downloadBytes": 152747,
           "expandedBytes": 296139,
           "entryCount": 21
@@ -15009,7 +15009,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "4bf030f189658f522486a5bb36f03dbd18fdaf18bd3890bfaf3dbdcb785474b6.kextra",
-          "sha256": "91c50dabfce4c43b286bdb554187fe9d35f764904bf5844c885ee6b9be85c528",
+          "sha256": "bef16f981783c8452efe044e1340054a0e4010c63e980117b89a164b9a4081bc",
           "downloadBytes": 115117,
           "expandedBytes": 123336,
           "entryCount": 21
@@ -15043,7 +15043,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "d53ef78fb38dcba5a202dc51d26c56de5a83b1cd056ec0395fa097d80d65cc3c.kextra",
-          "sha256": "56845d3c7f6e26557297ca943fff18b3b181b09e55609e1d7e349412fdb25d3d",
+          "sha256": "23b4b802ce3398a54a42a39cd22740217ef4f27d84a8264adabd4c1bae660531",
           "downloadBytes": 60352,
           "expandedBytes": 63982,
           "entryCount": 11
@@ -15077,7 +15077,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "dd7b3e336f235de46ade765cafdb10c29c8c30d9df3a9a1d66ddfc6b595040d7.kextra",
-          "sha256": "5e1b8ccb7dc0790805f4c62bfd2c41283c60a7d96f4a6e70b237ac06ba46d1fd",
+          "sha256": "33d89782f752a7ecd7b94af1fba182200b45ff4075d7b8c4776fc1234b0052b0",
           "downloadBytes": 17859,
           "expandedBytes": 19475,
           "entryCount": 11
@@ -15179,7 +15179,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "4da1916afd1d043d7721d30d83e7a65c3e64c0c9be2fc55144fa25ea3f2d20cd.kextra",
-          "sha256": "2004ee0af45ec0a7e08253f7e698638df65fcbfba16dd40ad97775bff24db0b3",
+          "sha256": "49561c0c387cfa90dc4c0fafded5104290abd9e62953518994a02c6f187e7067",
           "downloadBytes": 29754,
           "expandedBytes": 167833,
           "entryCount": 11
@@ -15281,7 +15281,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "c53551a87f389c17c1cf6999e8abe47e11da6d04b6ec716b7fd9b41f7b311ea9.kextra",
-          "sha256": "a65222aaad3137c62d1cde290cc264a2faa5caadd44a0d15c9b2f19808a9b21d",
+          "sha256": "655bc33e40754813a6e2175fc60ce0f1b3a56bff328242aed45712f7479adbd3",
           "downloadBytes": 40202,
           "expandedBytes": 42126,
           "entryCount": 11
@@ -15383,7 +15383,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "2bf4096a94265aa6e0f6d6aaa584e16cdec23a841d89b7dfc161f5e2bf200bb8.kextra",
-          "sha256": "c6179478b95b5adce4437eabed23d79a29ffe7ef1c9831a5489b5269830f9ae6",
+          "sha256": "9f6270abc7bbb75f1a965058ffeb9961e1d95199f3dc66888c15a99ea785f208",
           "downloadBytes": 153424,
           "expandedBytes": 156875,
           "entryCount": 21
@@ -15417,7 +15417,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "7c0df818e78d25a29745db30233db30366af2378c0c0ac0d97c2cf64a42d039b.kextra",
-          "sha256": "0a87b30c82f19a8715da998188b56341733d04643babf794a05c6027449313df",
+          "sha256": "c59b2f0c7095f2740af600fcb144d3e955c9a9700be2f2e2f542a6f71233f0e9",
           "downloadBytes": 112778,
           "expandedBytes": 170878,
           "entryCount": 21
@@ -15451,7 +15451,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "9ce09376dcfc4c90c42a077fa6260d31a8f1af4f4d39a46455570f2ed9a0ffbf.kextra",
-          "sha256": "e92fbcbd6636626d0c8a17fbb24a1f079163114c140d4e77755ff7c6080a700c",
+          "sha256": "4cfed906557180157b5f733853828137bdd5703e1d414f455a30cf618bfc6405",
           "downloadBytes": 39723,
           "expandedBytes": 44468,
           "entryCount": 21
@@ -15485,7 +15485,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "753cad9862c0de063dca866cc12fe94471fbb0d224ee5729e08db1f830f89b58.kextra",
-          "sha256": "88730414592d6384bbb9920bf0a227b083d6535a345d24e9e2cf5bc415422e1b",
+          "sha256": "42c9cd1ead2177bd537f2656003bddf785806da46c0908550781352f2af25a25",
           "downloadBytes": 23917,
           "expandedBytes": 29696,
           "entryCount": 28
@@ -15587,7 +15587,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "7ac9e665259bc1d0db59628eb46a80761ce4d8aba96c3b757990985729df8085.kextra",
-          "sha256": "0ad47fd117a25463dcb85ecf22a2184ca6209a071819b58f32af2c70965d27f7",
+          "sha256": "76c25c3cea60f5c68d6f7e79332955d544ae87d232274a5b0a23394b363ae875",
           "downloadBytes": 25175,
           "expandedBytes": 28515,
           "entryCount": 21
@@ -15723,7 +15723,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "0bb7c82a5fa7a5fc55a434d498002d0f953599c20b1eb27e2c8211236e005d4e.kextra",
-          "sha256": "166c1e2d9699798c88b9aea810a32d059359f5c9c8c8ced6517a5c64d3c2918c",
+          "sha256": "d28a998d5726ba787e1a52e060adee0d2d59daaaf4d1c86b0a7349d6c2a636be",
           "downloadBytes": 82408,
           "expandedBytes": 86734,
           "entryCount": 28
@@ -15791,7 +15791,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "01e74f31f8a47e7d766540abbdca0bdd7e547d21584f4d7497771579e14347a1.kextra",
-          "sha256": "70c08104cadec7242674ca83be8cf577972c61d4c09ee9e91b1397a632ee9c40",
+          "sha256": "8dece38ce687ee20783b440105523494b463993af45e6d71fe6f1b96e0ec8165",
           "downloadBytes": 54909,
           "expandedBytes": 57204,
           "entryCount": 16
@@ -15825,7 +15825,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "453ae6692ac83c95663cac7d292951d8f6384b89bbdf5899632d17099c6252aa.kextra",
-          "sha256": "0810782114ea44a6eae15f976ffb9209cb61f9f59137d0ae91eb879ed41e7597",
+          "sha256": "76a1676bab17bb46c5a21c385be74fef547a2a7cbc755ad5ec87b7053d36f915",
           "downloadBytes": 19565,
           "expandedBytes": 21819,
           "entryCount": 15
@@ -15859,7 +15859,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "f1eeb83ecb966f88aea178dc8a5d6b8dacea8e5a44ccffdc89838c0237bfd789.kextra",
-          "sha256": "246f9b741cdd05c091d3924dfd32aa1739d78aff2cede27ade2e08975d2c2fe2",
+          "sha256": "a6896451eb2475403d33a5ba19611fade216ccbf68260e51f9a83e19b5ebb9a0",
           "downloadBytes": 132559,
           "expandedBytes": 136824,
           "entryCount": 29
@@ -15961,7 +15961,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "08ca66ac3b989e070aa9add372b9539a80f6332bc88f8be080e2c386f0f31847.kextra",
-          "sha256": "0eed525d03b54cb1af0fd479a22a74debe63527d181540bc94cd731945cfcb7b",
+          "sha256": "56e75705c8a88b5979dda31a0ce3cafb187b919468d2e960f69293cf839f0bef",
           "downloadBytes": 78952,
           "expandedBytes": 242552,
           "entryCount": 13
@@ -16063,7 +16063,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "b3361db95a7787fdc6067ca2b270216b64a2eeb9b0ee466c329688430dae44a3.kextra",
-          "sha256": "acf8adde5879d6bb8247e8591f4f14f6d5928cad61d42a6acdc47fbd1baafb9c",
+          "sha256": "f892a872e61de442586e59d6027626212637487f36baa730283eb4ccb2ffeda1",
           "downloadBytes": 73079,
           "expandedBytes": 77385,
           "entryCount": 27
@@ -16097,7 +16097,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "2dac2f6402e09aea1e269e7cf015468016a1f3cba27b809ce5a0cac4d1ea0738.kextra",
-          "sha256": "7fa0152a0381fa3441663de4079cf239d00495ebf095f7ce33f79a50a8b0a430",
+          "sha256": "29c65ed2260aff6e21872bab8f88463241add077aeff310649784a3a1ea318ce",
           "downloadBytes": 152670,
           "expandedBytes": 157332,
           "entryCount": 29
@@ -16131,7 +16131,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "830740b85476a250abe7bcb55ec3e9bfa60d33cb764960f9c078b3a9a5320e60.kextra",
-          "sha256": "f0f27faa8b2e3f295bfdf192df79fd80802fd38a10a99d764f7d8185a3fc644d",
+          "sha256": "f7d73db0d64a377ae74dcb752d5ec4ee0e5cdca4b2686a359a0e05f35664f6f2",
           "downloadBytes": 40136,
           "expandedBytes": 45224,
           "entryCount": 29
@@ -16165,7 +16165,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "11f302774d7423e332ca56bab6fd1256d376d4e351b0850a1f22c2686716c20c.kextra",
-          "sha256": "990d7e87661d724ee661a1ae9652ce5a11f2d2f69f079e578bf06b4980b70d62",
+          "sha256": "643387f4327273fa4e999100e9fe87d2a6ba9a2882f691f5bd991ef2c69e6b4e",
           "downloadBytes": 116609,
           "expandedBytes": 348906,
           "entryCount": 28
@@ -16199,7 +16199,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "32b5994485d21963bb24ac770edcd9f277509fe586dc50dcb4bbfd858c89cdf2.kextra",
-          "sha256": "4df747a828f4180631fa2399fba075cd21dccec23f224e1a030ead81bbc79ad8",
+          "sha256": "633f10f34c558d918a2a5ff652c697b4fe9f64524825bacf17efbac0993109c5",
           "downloadBytes": 95980,
           "expandedBytes": 100319,
           "entryCount": 28
@@ -16301,7 +16301,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "ee2def7534aa9cc3571bf0125b09612db28d887f399ebc2b2a9fe9d9f1d2f6b3.kextra",
-          "sha256": "27b106b059e2b5724fbbfd55382b1e826d0f6f9472667f0e05bac11dae476e57",
+          "sha256": "c2336b9a25b043dccabac52fbb6f3fd9a372ed4539c26498c3bbfe61c6e77630",
           "downloadBytes": 24373,
           "expandedBytes": 28794,
           "entryCount": 27
@@ -16335,7 +16335,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "956d84cde0c1e438638f9cd99b16a84081a3e9f254435ef2e9a6f5d1a3223962.kextra",
-          "sha256": "8dd1ea7e3b3e4e8639fc45d278e0be01f0e2b107b073ed15bb660a4ef5373483",
+          "sha256": "17fc105085f2a43942f856f1fdef62bbb7fecbf7f43b0faf78772d600c9251e0",
           "downloadBytes": 155925,
           "expandedBytes": 186000,
           "entryCount": 8
@@ -16369,7 +16369,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "b5667d038bafd2683c50cbbe92bb340cf8259bb80f27de25bcfdc089937ee9dd.kextra",
-          "sha256": "3759d69789df0f0d42b363052fa7d6b7d5a2a12ab2efe5085069c01aef85a26d",
+          "sha256": "3065a82d89613e680a765d06a304914e0b609740e2bdfa888cd6988976e4b420",
           "downloadBytes": 214447,
           "expandedBytes": 277756,
           "entryCount": 11
@@ -16403,7 +16403,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "ecb8022bc368cf56cb2a55a55781e83efb82d63885511227c5216a6a82c42f0c.kextra",
-          "sha256": "d9e1daf97b41e9f7b925f5587ee18cc7d0babecdea8ea43e7d2df993916a66ec",
+          "sha256": "07c2639f14c794c049bb108fd1dd65a55b677d575a2ad8a6f596f618289cefdf",
           "downloadBytes": 499,
           "expandedBytes": 706,
           "entryCount": 1
@@ -16430,7 +16430,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "3173700a721914248aab0435caf0a25c54f958f15e9481a841e975f4d7253417.kextra",
-          "sha256": "08a688919b8e04489373fd18c4c3160111527771ce72d7dc1da46c05cb0c3143",
+          "sha256": "1f6ecca79948834f86d7f5a65740dbe61ffe56e5c92c2b4f55e6dc061fa9bd2b",
           "downloadBytes": 476,
           "expandedBytes": 665,
           "entryCount": 1
@@ -16484,7 +16484,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "250073f9a76e4ed45958a86b00e8de61ddbfe7a429b70c913a3d205d454daaa3.kextra",
-          "sha256": "57a5a3f36b05ce0e10c6d660fb3869b4a67707986c413eb1b72153ce289948a0",
+          "sha256": "00b3eb30eb1bdee8f09ec5181057e08afa1a8bd62ee8eeb22640e763a0441f1d",
           "downloadBytes": 462,
           "expandedBytes": 656,
           "entryCount": 1
@@ -16538,7 +16538,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "0bd0cedbdc68f10065201c1361c6ec306036538f21f5f0bbbc5e7d05bec61b98.kextra",
-          "sha256": "7ac3c676216c9fc4bc836599f06bc6321a7bc5734c3b83248c9e5f3c61683518",
+          "sha256": "a7a16460058c582ca9a80250d0e09327ce69a79d0018e39ba289098e8b36ed1c",
           "downloadBytes": 473,
           "expandedBytes": 671,
           "entryCount": 1
@@ -16565,7 +16565,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "170434d6ceffde363811da4840248e3887d9b6fb8255e4053ce463a113b19fa6.kextra",
-          "sha256": "519da216b4983cba78bd053697530d0bc058291261d6e714759cb4efafa9bd64",
+          "sha256": "1477091123a292229f5eea56a72511a8a0855cf027728f62afb9e02d5317ede3",
           "downloadBytes": 472,
           "expandedBytes": 663,
           "entryCount": 1
@@ -16592,7 +16592,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "2838a0a68c315a018993969eda87a9b891e8f4392a7905e4353786163c62bd9e.kextra",
-          "sha256": "c5bcdf572c5b87326de0cf6ad55c0f98d4a2d88c449fc00086b61d0d2ea96155",
+          "sha256": "a6641e4c69b48549b267a8342c4056f876d90f70fc22234aa9d5ca0019d09185",
           "downloadBytes": 452,
           "expandedBytes": 640,
           "entryCount": 1
@@ -16619,7 +16619,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "4805e3dc10301c128a3c57d50eb2619b2ee9e629a100c572cd40b8ec3d49d08f.kextra",
-          "sha256": "75b1aff5f289c353e85730bafb6264e4b9ae47fa978bd2aef03fb12bb58a6f05",
+          "sha256": "760208a1bf717e8f596b8d9d166441fced78a871079f97b42ad8b41246374ee7",
           "downloadBytes": 451,
           "expandedBytes": 630,
           "entryCount": 1
@@ -16673,7 +16673,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "af1806149a04a54d0706c6c135e7115faf2c1ec2bb879f01d6a8c91b3bd54439.kextra",
-          "sha256": "2612b29f7324d637c5d8a6cfa4b4a9faa185a5e2e630a5aafdfd27f22b8ad461",
+          "sha256": "d807c7194d4489be63d46f0327ff2fa4ac3eea15e7bf6a4760d9a0b43ad5cc00",
           "downloadBytes": 497,
           "expandedBytes": 703,
           "entryCount": 1
@@ -16754,7 +16754,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "ebfade181b5e6414f1092bfaf4c77eaad12031fad0aa363af67583ee85c47e49.kextra",
-          "sha256": "5704e2a61d18ca2faadea2be0332fcb70a7c2f4b6febe8c2187afc1272b5ad46",
+          "sha256": "68f7dcc1bbbb4700039fc20922a798d8015a2413e65bf243962f48693334a294",
           "downloadBytes": 476,
           "expandedBytes": 675,
           "entryCount": 1
@@ -16808,7 +16808,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "933cae6178f9aa17370151f0f50f06feb61770c020bb59a0fee165ee2ae7cccc.kextra",
-          "sha256": "51609f16cd7f4a9e53e422112e11277848fa4af8263e5d0b49c331d96931f33b",
+          "sha256": "bb7dafea50baa981dd8ab7c305ec79f5eb2079b5e6fe678008120d82983bc45e",
           "downloadBytes": 502,
           "expandedBytes": 706,
           "entryCount": 1
@@ -16835,7 +16835,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "b302a2b28e75f3380ef0b3e83dd3a78e8d55d1a66140a09f583f7bb8c390c75e.kextra",
-          "sha256": "b924b5251549a0a58dc71605533984366dac91747c3b3f69c78120c115d8a60d",
+          "sha256": "ca8b819df9e7647222cdbc41bc7ba3742aee8ac583fe7283bb708e0f1e5e8bae",
           "downloadBytes": 461,
           "expandedBytes": 654,
           "entryCount": 1
@@ -17065,7 +17065,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "c7e4db45a5c414dbdd6f78227d80fbce592036f6a888d18373f2b58361bc7ee5.kextra",
-          "sha256": "6ebbb6dc1250e01f4c0c4929882f32b8459242dac5cd23e7606b4cd6c2937423",
+          "sha256": "12a715f84293be8fa2a120af48690e8029d2a865b5753d8480d94529d1590233",
           "downloadBytes": 116688,
           "expandedBytes": 136758,
           "entryCount": 9
@@ -17167,7 +17167,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "659a45ec54c3eabdb663ff2d2205927071c2f518d0c316697675864cf7f70181.kextra",
-          "sha256": "6779191cf4c3f5fda6354d147cbf83548c58032feff1e369e90fae739adbe959",
+          "sha256": "b9f831cec6f858e6b51ae4e82c0f6fa5ef01377c80d32234780f3d41b4f93ed4",
           "downloadBytes": 77359,
           "expandedBytes": 134027,
           "entryCount": 8
@@ -17269,7 +17269,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "3c9303984bb68cb95931fd8350af812c70ba9d8a52a448939271984bb9784042.kextra",
-          "sha256": "34ea196c931e7585c2d8ee13262cff49582f65c32504506805f73664bad149cb",
+          "sha256": "eeac4da21496865adeec0b816a05c379d5efffc2f406eca67640bfaae7741bb9",
           "downloadBytes": 126148,
           "expandedBytes": 141668,
           "entryCount": 10
@@ -17303,7 +17303,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "1e0047af13d15ff259e0561103361bfec0245589937753b6162992cf1ec0ba55.kextra",
-          "sha256": "b5ef0376ad0ef5fa2e0a12cd68aa647064d0ca92ef001da74c92f4cf8d8150c7",
+          "sha256": "6c04dfcaad38cabf0ca38c13d29b94baceb607c328cd00d5ddda1ecb3b43260e",
           "downloadBytes": 64745,
           "expandedBytes": 81877,
           "entryCount": 9
@@ -17337,7 +17337,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "b9e0081e575d7af9575df9a62774713f180b3503ac364885037b88eeeebdbaed.kextra",
-          "sha256": "3a6e097d858d82d08aa787cb0330a010f681716eb4c265dddc0358f514e4fda6",
+          "sha256": "0b504c8985083e7af0fa64d92eea912d514173f8b3bb16b3ae1a3a8593175367",
           "downloadBytes": 43159,
           "expandedBytes": 44698,
           "entryCount": 8
@@ -17439,7 +17439,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "a21e9e4254facbe24d976bc2b76c4b7b87780b342a7e2a05bcbd6bb5e5acc7b5.kextra",
-          "sha256": "5fccb9fa909163b189632c3c480ef780310a645cea323733388654b8ec747daa",
+          "sha256": "4b50c16d969493266e6d0889f207b5c3810066fc18e2c766b2dd686ba43b17fe",
           "downloadBytes": 64111,
           "expandedBytes": 68588,
           "entryCount": 10
@@ -17541,7 +17541,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "01d28712fbcdb3b9eb0d9dbcad13faaf1896559aa08f142565777dcfc8b29085.kextra",
-          "sha256": "bdf2d566cb7d93c6d761e69c7cf67bbcde587e19762bdadde47d12bb0c86d106",
+          "sha256": "c12cba98dadba6630f2b9fba8c538529e6da61dd683e44faa228722544db19d4",
           "downloadBytes": 31969,
           "expandedBytes": 34952,
           "entryCount": 5
@@ -17575,7 +17575,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "be58a8e0b213c15fd8d3c2177d3cc4f08edee189865f25394c220023a6d4d10b.kextra",
-          "sha256": "9c497c726c0ae243d3828f642bbe19145b07be02a2a6ca7ab11a1f8521eeceee",
+          "sha256": "07b75396b5ec1d2ed0204b799d33264945e2aa11c26f104808401412bbf5674e",
           "downloadBytes": 62008,
           "expandedBytes": 80580,
           "entryCount": 11
@@ -17677,7 +17677,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "bc7549c0ee6cf3398667c63f832dc06166097d129134ebaf386204497931c357.kextra",
-          "sha256": "9b7a77b327b19fe80cafe5ea5aa4b0764839d969247aa5bb29b4c8479823177e",
+          "sha256": "dd8c0a26ad4978e6cadb92dffc7f0deac4f051f045922d1ec787611126fe231a",
           "downloadBytes": 345366,
           "expandedBytes": 356947,
           "entryCount": 14
@@ -17711,7 +17711,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "e4da63b5dce2d3be586b19735f9be5c7be2d9a6744d66415cd1e215b6fe87e7b.kextra",
-          "sha256": "3b0eea8c8359c77836ff7dbe0c77c15ad6cba592b8b15648e151e90ec3e90b10",
+          "sha256": "afe0e032d5d6a65dea1302cc3511fb642d40faa8158c8a7cce9552b84fabcedf",
           "downloadBytes": 231269,
           "expandedBytes": 236727,
           "entryCount": 14
@@ -17745,7 +17745,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "dc5f04f4f01bf7a356b5b0d263b46ba37e9509958782ab84480b003a0b454229.kextra",
-          "sha256": "9a71e0ae158ab3a3f69da9dbe3edb0ca6c3d6f1d0847af23edf6f923cf7aa060",
+          "sha256": "715290a8d2637967c7f72e90a0b800cbd1188fae948c3e263329d73f792664af",
           "downloadBytes": 38022,
           "expandedBytes": 42277,
           "entryCount": 12
@@ -17779,7 +17779,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "5c2dc678a4b983a0f39750a5d757fbebb771083a5bd5d8b55ffa66bc6775fc75.kextra",
-          "sha256": "7f4071963d6f11a064a5cc0a37bbc1a8190432fc6fc24967021094f65caafa4e",
+          "sha256": "f19da90b37376d3bb4bfe65b011c62fd8c60769c7e086b7c229eb2195a69fc7c",
           "downloadBytes": 51025,
           "expandedBytes": 68800,
           "entryCount": 12
@@ -17813,7 +17813,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "3d7f0a4d9166f09707f2919856ceda27a5e367583456f8068299b789d526b708.kextra",
-          "sha256": "e1477fca4fecd6d2aea59e6c6db05e24b10181d871c4b10044de29f0cc1ac97b",
+          "sha256": "bd5ca5e604339bfdb8c04657aaabec606d1e6aad514df6f7af6c0a5d409b3f22",
           "downloadBytes": 79589,
           "expandedBytes": 81058,
           "entryCount": 7
@@ -17915,7 +17915,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "0dce65ca86fcd61a8a1e5ca4bcf7f449e8315b1ebe2ac7ca3dee9c2e42eac305.kextra",
-          "sha256": "157d561673e37e0898a0ceb3a75ffa75db8cdbfc83662bb83bc3a42386469fab",
+          "sha256": "8331f380d7c3545e7fd16867499b8f88df0fee5766635db4301f22b034c9ae3b",
           "downloadBytes": 56960,
           "expandedBytes": 60097,
           "entryCount": 14
@@ -17949,7 +17949,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "05e9b7b4f4b8ea5932a0120e4edc9676f30a99992419c72223c9c3a114352847.kextra",
-          "sha256": "443e68be7bf2df98f46a0890005e8794aaae2937fc7ec842a7553e78403ae85d",
+          "sha256": "4e6b139af81024f399ca43d7f811834c6e5c10cbb6a4bdac7cabd7398c1ef366",
           "downloadBytes": 35717,
           "expandedBytes": 38076,
           "entryCount": 9
@@ -18051,7 +18051,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "19efd9f93c5ca5dd8caa44b1cc4cf24e20fb7f264585c52a48c92ece9c33846d.kextra",
-          "sha256": "c72cf65298fd39512bed29318a3dedca87e4222a8a77daa3f65b85ba53550bc6",
+          "sha256": "cc0417b11b77dfa72eaad7375f6a80a057c7cdef8b7d2272503c3e43d2dcba2e",
           "downloadBytes": 847696,
           "expandedBytes": 902910,
           "entryCount": 19
@@ -18153,7 +18153,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "db415d2a501c381712809342fcf5f9e2262bd429e1565c9e6562968de9bffc5e.kextra",
-          "sha256": "8ef3cf929fad7ec01e05e7108e6277faa395b31369078e8274d9343acd82f06f",
+          "sha256": "0bdc587cea153350dc30b5d402e48c01cf568e90d77f158ea1158cf2b7385b29",
           "downloadBytes": 556875,
           "expandedBytes": 573589,
           "entryCount": 19
@@ -18255,7 +18255,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "1936cc70aaaed0c73a66f0c25e3c8319dc5e9cc28051735ae74924a4b30dfae3.kextra",
-          "sha256": "6840cecda1ee841aae789cfdabff7307bb782fe43ea026ba9d21114d3c498f15",
+          "sha256": "b93956669d800c10504204eb280785c2acd7d2943b6af84388b0277712caca21",
           "downloadBytes": 213570,
           "expandedBytes": 228575,
           "entryCount": 14
@@ -18289,7 +18289,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "c9878215fbcaea770c2c0f7b340283ba82e5632c2488ba913fe2e721887a4122.kextra",
-          "sha256": "6693d72f757a624f397f8ef48b52772c64fa96649d24f4cbbe41b0b37f350896",
+          "sha256": "077ec30d7f41fc6c60c407bf86efb22ba13ccdef817d28c219fc2490f408a171",
           "downloadBytes": 131983,
           "expandedBytes": 145824,
           "entryCount": 14
@@ -18323,7 +18323,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "1b31371903550e2bcd1bd6e597aa48af9b58e8fe38b30aa59a682311e66d2190.kextra",
-          "sha256": "86eea37c2261f96f80d2c4022e24c1bf565b67225ab4528a9eeb383c5d54e2ef",
+          "sha256": "eb88d80b046b6a3eaea07e75c4ab17782f7f738e17381fd2b43f6f4262baa2b3",
           "downloadBytes": 57211,
           "expandedBytes": 62592,
           "entryCount": 13
@@ -18425,7 +18425,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "636277ce186e589fd91ab080256a3d46aaaae2ce589fc9ff1273d3751c830036.kextra",
-          "sha256": "6b1979a85b9776bc7e570bef2cb8d4300fa33f44b9cbf0bab4688d1f448ec7f1",
+          "sha256": "4477580b367ede9fdc7064642243a2d00912b0ae30afd869451aeedf0dca4060",
           "downloadBytes": 29082,
           "expandedBytes": 32534,
           "entryCount": 18
@@ -18527,7 +18527,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "c7c467e5e15850d3c83f1c49b35b869e12db707973f3e0ed47bd7295ecc53a63.kextra",
-          "sha256": "38ab95287c872710b9da3855f9d2e17fa86287ed5a70e3d0e6aa778663011391",
+          "sha256": "b7cc1abbba91c63da903ad93050e06ea440be212fb1f9f7d9696bce48087bffb",
           "downloadBytes": 104188,
           "expandedBytes": 114517,
           "entryCount": 24
@@ -18629,7 +18629,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "eb80e6c0b64b8bc009e71f21f848448ae832a4c760fe9c207dcdac1fa429ff9c.kextra",
-          "sha256": "c9d9f1712239435dbe86ce462fde84a013dd809a749fca695b0c7af5095f2062",
+          "sha256": "98c85bf669853833a9b7e28d6de2579dcffa28ba73d3d4120b59dd6703c4421c",
           "downloadBytes": 88841,
           "expandedBytes": 111368,
           "entryCount": 22
@@ -18663,7 +18663,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "0ba050d26dcff8afdb84a8135b5da3fbfd4e118936d7ed57c5c70f0525cd7c68.kextra",
-          "sha256": "03dbce2c21625c39d619b258abb401443a39af0f0a26e7af33d79b27e3aad6c3",
+          "sha256": "74d026b065726a0937379e8e11d1be31504738f9ffa55878f760e330fc56d9b4",
           "downloadBytes": 86465,
           "expandedBytes": 95261,
           "entryCount": 15
@@ -18697,7 +18697,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "d8521dc1e7bea481bca126380003c5a699f6177c1cbb8cf99f173314f6318ee6.kextra",
-          "sha256": "1c1ccbb66454a2d9ed0047a0b02c385bcbbe2e7bd6e330d15302eb155c410a9f",
+          "sha256": "91b9be430a387a2f071f95af66efb15aa455da02b9737df8ffa26197b5fc3e87",
           "downloadBytes": 413099,
           "expandedBytes": 444608,
           "entryCount": 15
@@ -18731,7 +18731,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "cfb867d267cab7d09a8761f48ddfc700e9847ed92d783e267d1b49fcd76a808e.kextra",
-          "sha256": "d075386277f5b75bc8bd4d1672fa7110845d36bbff42f6744eb99619e35f6937",
+          "sha256": "4ee6e75e003922aa0814b0cdcbc85d76f58ecb15607c119157cca68d24e53e16",
           "downloadBytes": 130349,
           "expandedBytes": 144510,
           "entryCount": 25
@@ -18765,7 +18765,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "ea6084cfa4d602b0d8b138711629f75849b02bbff7f03279382357efa3660f89.kextra",
-          "sha256": "5537e3453021fb7a076419a131121df4b946010b3bc592a2abb68f423dcf5dbc",
+          "sha256": "e69a19b8a7a66a471500f304c066a95dfcb2d1e786a2830c7a63f74b20ef180e",
           "downloadBytes": 36936,
           "expandedBytes": 43529,
           "entryCount": 18
@@ -18867,7 +18867,7 @@
         "package": {
           "releaseTag": "catalog-2026.07.28.1",
           "assetName": "83bfce136968ca9f895745ce18fe633b9ceb189d1a1e909ddc1d175f8e6085bb.kextra",
-          "sha256": "d30397e477be79561d8f64ed61ea1b23a64425cae0ba56da9cc69f404f1c6555",
+          "sha256": "e5476b38dd9007dcf3472d2af18636ec2bb5a2c8d26e804a320400737ac94f42",
           "downloadBytes": 130555,
           "expandedBytes": 168423,
           "entryCount": 17
