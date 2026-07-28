@@ -11,6 +11,11 @@ on:
         description: Final shard tag that becomes the latest release
         required: true
         type: string
+      verify_only:
+        description: Verify an already-published immutable catalog without uploading
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -52,6 +57,7 @@ jobs:
           sha256sum catalog-v1.json | awk '{print $1}' \
             > "$RUNNER_TEMP/catalog-v1.json.sha256"
       - name: Attach signed complete catalog to every shard
+        if: ${{ !inputs.verify_only }}
         env:
           GH_TOKEN: ${{ github.token }}
           RELEASE_TAGS: ${{ inputs.release_tags }}
@@ -79,7 +85,10 @@ jobs:
           FINAL_TAG: ${{ inputs.final_tag }}
         run: |
           mkdir "$RUNNER_TEMP/verify"
-          gh release download "$FINAL_TAG" --dir "$RUNNER_TEMP/verify"
+          gh release download "$FINAL_TAG" --dir "$RUNNER_TEMP/verify" \
+            --pattern catalog-v1.json \
+            --pattern catalog-v1.sig \
+            --pattern catalog-v1.json.sha256
           jq -r '.signature' "$RUNNER_TEMP/verify/catalog-v1.sig" \
             | base64 -d > "$RUNNER_TEMP/verify/signature.bin"
           openssl dgst -sha256 -verify keys/kumori-extras-2026-01.pem \
