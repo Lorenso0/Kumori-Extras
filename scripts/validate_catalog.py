@@ -18,10 +18,23 @@ def validate_asset(asset: dict, fingerprint: str, suffix: str) -> None:
     if not TAG.fullmatch(asset.get("releaseTag", "")):
         fail(f"invalid release tag for {fingerprint}")
     expected = fingerprint + suffix
-    if asset.get("assetName") != expected:
-        fail(f"asset name must be {expected}")
+    entry_name = asset.get("entryName")
+    if entry_name is None:
+        if asset.get("assetName") != expected:
+            fail(f"asset name must be {expected}")
+    else:
+        prefix = "packages/" if suffix == ".kextra" else "previews/"
+        if entry_name != prefix + expected:
+            fail(f"bundle entry name must be {prefix + expected}")
+        if not re.fullmatch(r"catalog-bundle-\d{3}\.zip", asset.get("assetName", "")):
+            fail(f"invalid bundle name for {expected}")
+        if not SHA.fullmatch(asset.get("entrySha256", "")):
+            fail(f"invalid bundle-entry SHA-256 for {expected}")
+        entry_size = asset.get("entryDownloadBytes")
+        if not isinstance(entry_size, int) or not 0 < entry_size <= 256 * 1024 * 1024:
+            fail(f"invalid bundle-entry size for {expected}")
     if not SHA.fullmatch(asset.get("sha256", "")):
-        fail(f"invalid SHA-256 for {expected}")
+        fail(f"invalid release-asset SHA-256 for {expected}")
     size = asset.get("downloadBytes")
     if not isinstance(size, int) or not 0 < size <= 256 * 1024 * 1024:
         fail(f"invalid compressed size for {expected}")
