@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       release_tags:
-        description: JSON array of existing immutable draft release tags
+        description: Comma-separated existing immutable draft release tags
         required: true
         type: string
       final_tag:
@@ -57,7 +57,7 @@ jobs:
           RELEASE_TAGS: ${{ inputs.release_tags }}
           FINAL_TAG: ${{ inputs.final_tag }}
         run: |
-          mapfile -t tags < <(jq -r '.[]' <<<"$RELEASE_TAGS")
+          IFS=',' read -r -a tags <<<"$RELEASE_TAGS"
           test "${#tags[@]}" -gt 0
           for tag in "${tags[@]}"; do
             gh release view "$tag" --json isDraft --jq '.isDraft' | grep -qx true
